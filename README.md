@@ -5,7 +5,8 @@
 <h5>01.middleware || 
 02.database connect ||
 03.route</h5>
-  <ol>
-  <li>create folder utils > dbConnect and export </li>
+ 
 </ol>
+ <ol>
+  <li>Create folder utils > dbConnect and export </li>
 </ol>
