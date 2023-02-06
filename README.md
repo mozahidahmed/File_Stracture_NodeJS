@@ -10,4 +10,5 @@
  <ol>
  <h6>file stracture </h6>
   <li>Create folder utils > dbConnect and export </li>
+  <li>Create folder rputes > export and import </li>
 </ol>
