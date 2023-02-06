@@ -11,6 +11,7 @@ router
 .route('/')
 // .get(getAllServices)
  .get(servicesControllers.getAllServices)
+ .post(servicesControllers.saveServices)
 
 
 
